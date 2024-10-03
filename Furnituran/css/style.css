@@ -542,6 +542,10 @@ body {
   margin-top: -130px;
 }
 
+.info-card p {
+  color: rgba(161, 171, 173, 1);
+}
+
 .info .card h2 {
   font-size: 20px;
   margin-bottom: 20px;
